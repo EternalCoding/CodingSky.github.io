@@ -1,8 +1,13 @@
-CTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+<!DOCTYPE html>
+<HTML>
+   <HEAD>
+      <TITLE>
+         Ning Hu 
+      </TITLE>
+   </HEAD>
+<BODY>
+   <H1>Hi</H1>
+   <P>Coding ur Life, Coding ur Dream</P> 
+</BODY>
+</HTML>
 

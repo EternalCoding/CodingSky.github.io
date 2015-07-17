@@ -1,13 +1,13 @@
-<!DOCTYPE html>
+<content type="html">
 <html>
-   <HEAD>
-      <TITLE>
+   <head>
+      <title>
          Ning Hu 
-      </TITLE>
-   </HEAD>
-<BODY>
-   <H1>Hi</H1>
-   <P>Coding ur Life, Coding ur Dream</P> 
-</BODY>
+      </title>
+   </head>
+<body>
+   <h1>Hi</h1>
+   <p>Coding ur Life, Coding ur Dream</P> 
+</body>
 </html>
 

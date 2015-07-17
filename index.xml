@@ -1,12 +1,6 @@
-<content type="html"/>
 <html>
-   <head>
-      <title>
-         Ning Hu 
-      </title>
-   </head>
+<header><title>This is title</title></header>
 <body>
-   <h1>Hi</h1>
-   <p>Coding ur Life, Coding ur Dream</p> 
+Hello world
 </body>
 </html>
